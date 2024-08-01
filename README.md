@@ -1,4 +1,4 @@
-FEMentor Time Tracking Dashboard project using html, vanilla JS and CSS with Tailwind 
+<h1>FEMentor Time Tracking Dashboard project using html, vanilla JS and CSS with Tailwind </h1>
 
 Hello! It's me, JackFrost again.
 
