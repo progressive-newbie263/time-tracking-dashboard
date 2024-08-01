@@ -24,7 +24,14 @@ module.exports = {
       darkBlue: 'hsl(235, 46%, 20%)',
       desaturatedBlue: 'hsl(235, 45%, 61%)',
       paleBlue: 'hsl(236, 100%, 87%)',
-      white: 'hsl(0, 0%, 100%)'
+      white: 'hsl(0, 0%, 100%)',
+      hoverDarkBlue: 'hsla(226, 43%, 10%, 0.85)',
+      black: 'hsl(0, 100%, 0%)'
+    },
+
+    screens: {
+      md: '960px',
+      sm: '500px'
     },
 
     extend: {},

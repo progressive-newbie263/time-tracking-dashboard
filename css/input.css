@@ -2,8 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
-.attribution { 
-  font-size: 11px; text-align: center; 
+.attribution {
+  position: absolute; 
+  font-size: 11px; 
+  text-align: center;
+  left: 40%; 
 }
 
 .attribution a { 
@@ -36,4 +39,24 @@ body {
 }
 .bg-softOrange { 
   background-color: hsl(43, 84%, 65%); 
+}
+.bg-hoverDarkBlue {
+  background-color: hsla(226, 43%, 10%, 0.85);
+}
+.black {
+  background-color: hsl(0, 100%, 0%);
+}
+
+.white-text {
+  color: white;
+}
+
+.white-mode {
+  background-color: white;
+  color: black;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
 }
