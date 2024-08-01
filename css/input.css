@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.attribution { 
+  font-size: 11px; text-align: center; 
+}
+
+.attribution a { 
+  color: hsl(228, 45%, 44%); 
+}
+
+body {
+  font-family: 'Rubik', 'Arial';
+  font-size: 14px;
+  /* color: hsl(235, 45%, 61%); */
+}
+
+
+/* very important note, must reassign this into input.css  */
+/* COLOR FOR THE CARDS BACKGROUND. */
+.bg-orange { 
+  background-color: hsl(15, 100%, 70%); 
+}
+.bg-lightBlue { 
+  background-color: hsl(195, 74%, 62%); 
+}
+.bg-lightRed { 
+  background-color: hsl(348, 100%, 68%); 
+}
+.bg-limeGreen { 
+  background-color: hsl(145, 58%, 55%); 
+}
+.bg-violet {
+  background-color: hsl(264, 64%, 52%); 
+}
+.bg-softOrange { 
+  background-color: hsl(43, 84%, 65%); 
+}
