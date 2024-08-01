@@ -9,4 +9,4 @@ Hello! It's me, JackFrost again.
 so i ended up assigned those color onto input.css file.
 - Overall this was a really entertained challenge to do, i had learnt a lot during completing it.
 
-- Live site: 
+- Live site: https://progressive-newbie263.github.io/time-tracking-dashboard/
